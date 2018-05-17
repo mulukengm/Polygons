@@ -1,10 +1,14 @@
 # Polygons
 
-This is a very small project I built for an interview.
+This is a very small project I built for an interview preparation.
 
-## Instructions
+##### Changing number of sides of a polygon
 
-Create a class that models a Simple Regular Polygon.
+![Polygon number of sides](https://github.com/mulukengm/Polygons/blob/master/single_polygon.gif)
+
+##### Rotating mutiple polygons
+
+![Polygons rotation](https://github.com/mulukengm/Polygons/blob/master/multiple_polygons.gif)
 
 ##### Polygon Definition:
 A plane figure with at least three straight sides and angles, and typically five or more.
